@@ -1,7 +1,7 @@
 [package]
 name = "jellyfish_merkle"
 version = "0.1.0"
-authors = ["David Bryson <dbryson@mitre.org>"]
+authors = ["Libra Association <opensource@libra.org>", "Dave Bryson>"]
 edition = "2018"
 
 [dependencies]
